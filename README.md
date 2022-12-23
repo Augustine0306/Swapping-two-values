@@ -17,7 +17,21 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
-## PROGRAM:
+## PROGRAM:#Program to swap two values.
+```
+#Program to swap two values.
+#Developed by:Augustine J 
+#RegisterNumber:22009432
+v1=eval(input())
+v2=eval(input())
+v3=v1
+v1=v2
+v2=v3
+print("Swapped values are: {} {}".format(v1,v2))
+```
+## output:
+![OUTPUT](/a.png)
+
 
 
 
